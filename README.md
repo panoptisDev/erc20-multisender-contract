@@ -1,1 +1,1 @@
-# MultiSender in SaFuTrendz
+# MultiSender in CobraSender

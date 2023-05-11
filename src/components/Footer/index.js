@@ -10,7 +10,7 @@ const Footer = () => (
       <div className="footer-logo flex">
         <img src={Logo} alt="logo" />
       </div>
-      <div className="footer-copyright">© 2022 SafuTrendz</div>
+      <div className="footer-copyright">© 2023 CobraSender</div>
       <div className="footer-socials flex">
         {keysIn(SocialLinks).map((data, index) => (
           <a

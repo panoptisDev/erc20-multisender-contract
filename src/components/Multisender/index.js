@@ -45,7 +45,7 @@ const MultiSender = ({
   return (
     <div className="multisender flex">
       <FadeIn className="multisender-wrapper container flex flex-column">
-        <h1>SaFuTrendz MultiSender</h1>
+        <h1>Cobra MultiSender</h1>
         <div className="multisender-main grid">
           <div className="multisender-main-settings grid">
             <span>{symbol !== undefined && `Token: ${symbol}`}</span>
